@@ -1,0 +1,15 @@
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\bin\Debug\net7.0\L5_KC_1120623.exe
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\bin\Debug\net7.0\L5_KC_1120623.deps.json
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\bin\Debug\net7.0\L5_KC_1120623.runtimeconfig.json
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\bin\Debug\net7.0\L5_KC_1120623.dll
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\bin\Debug\net7.0\L5_KC_1120623.pdb
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.AssemblyInfo.cs
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.dll
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\refint\L5_KC_1120623.dll
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.pdb
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\L5_KC_1120623.genruntimeconfig.cache
+C:\Users\kenne\source\repos\L5_KC_1120623\L5_KC_1120623\obj\Debug\net7.0\ref\L5_KC_1120623.dll
